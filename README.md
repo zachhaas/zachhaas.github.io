@@ -5,7 +5,7 @@
     <title>Welcome to my website!</title>
   </head>
   <body>
-    <img src="" width="200" />
+    <img src="IMG_0517.jpeg" width="200" />
   <h1>Zach Haas</h1>
   <h4>CS Student and Tennis player at Oxy</h4>
   <p>
