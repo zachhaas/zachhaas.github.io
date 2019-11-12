@@ -2,10 +2,10 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Zach Haas</title>
+    <title>Welcome to my website!</title>
   </head>
   <body>
-  <h1>Ian Sikes</h1>
-  <h4>CS Student</h4>
+  <h1>Zach Haas</h1>
+  <h4>CS Student and Tennis player at Oxy</h4>
   </body>
   
