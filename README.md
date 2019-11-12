@@ -14,7 +14,7 @@
     </p>
     <ul>
       <li>
-        <a href="https://github.com/zachhaas/Zach-Haas">My Github</a>
+        <a href="https://github.com/zachhaas/">My Github</a>
       </li>
     </ul>
   
