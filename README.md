@@ -9,7 +9,7 @@
         <h1 style="font-family:Times;">Zach Haas</h1>
         <h4>CS Student and Tennis player at Oxy</h4>
     <p style="color:green">
-      Computer Science student, tennis player, and Amateur fortnite player.
+      Computer Science student, tennis player for the Oxy Tigers, and Amateur fortnite player.
       I'm from Lake Tahoe, CA and I love the outdoors!
     </p>
     <ul>
