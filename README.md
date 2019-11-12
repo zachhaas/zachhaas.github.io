@@ -10,7 +10,7 @@
   <h4>CS Student and Tennis player at Oxy</h4>
   <p>
   Computer Science student, tennis player, and Amateur fortnite player.
-  Thanks for visiting my website.
+  I'm from Lake Tahoe, CA and I love the outdoors!
   </p>
     <ul>
     <li>
