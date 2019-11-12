@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Welcome to my website!</title>
+    Welcome to my website!
   </head>
   <body>
     <img src="IMG_0517.jpeg" width="200" />
