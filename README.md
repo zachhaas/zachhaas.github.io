@@ -1,9 +1,9 @@
 # zachhaas.github.io
-<!DOCTYPE html>
 <html>
   <head>
     Welcome to my website!
   </head>
+  
   <body>
         <img src="IMG_0517.jpeg" width="200" />
         <h1 style="font-family:Times;">Zach Haas</h1>
