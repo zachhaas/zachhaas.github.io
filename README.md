@@ -9,7 +9,7 @@
   <h1>Zach Haas</h1>
   <h4>CS Student and Tennis player at Oxy</h4>
   <p>
-  Computer Science student, web developer, blah blah blah.
+  Computer Science student, tennis player, and Amateur fortnite player.
   Thanks for visiting my website.
   </p>
     <ul>
